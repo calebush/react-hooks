@@ -2,10 +2,10 @@
 
 This is asimple project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It demonstrates the use of:
 
-## React Hooks
+### React Hooks
 Use of react hooks(useState and useEffect) which enables the use of react features and state without writing a class.
 
-## Code Splitting
+### Code Splitting
 The React lazy function has been used in importing the components. This allows quick loading, before anything else, of only needed items in user interface. Suspense component has been used to wrapp the lazy components.
 
 
